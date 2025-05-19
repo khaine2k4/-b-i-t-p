@@ -1,0 +1,17 @@
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.AssemblyInfoInputs.cache
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.AssemblyInfo.cs
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.csproj.CoreCompileInputs.cache
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\NuGetExample.exe
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\NuGetExample.deps.json
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\NuGetExample.runtimeconfig.json
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\NuGetExample.dll
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\NuGetExample.pdb
+D:\kì 5\myc#\NuGetExample\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.csproj.AssemblyReference.cache
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExa.176FDC5E.Up2Date
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.dll
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\refint\NuGetExample.dll
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.pdb
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\NuGetExample.genruntimeconfig.cache
+D:\kì 5\myc#\NuGetExample\obj\Debug\net9.0\ref\NuGetExample.dll

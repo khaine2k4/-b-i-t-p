@@ -1,0 +1,14 @@
+D:\kì 5\myc#\InteropApp\bin\Debug\net9.0\InteropApp.exe
+D:\kì 5\myc#\InteropApp\bin\Debug\net9.0\InteropApp.deps.json
+D:\kì 5\myc#\InteropApp\bin\Debug\net9.0\InteropApp.runtimeconfig.json
+D:\kì 5\myc#\InteropApp\bin\Debug\net9.0\InteropApp.dll
+D:\kì 5\myc#\InteropApp\bin\Debug\net9.0\InteropApp.pdb
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.AssemblyInfoInputs.cache
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.AssemblyInfo.cs
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.csproj.CoreCompileInputs.cache
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.dll
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\refint\InteropApp.dll
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.pdb
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\InteropApp.genruntimeconfig.cache
+D:\kì 5\myc#\InteropApp\obj\Debug\net9.0\ref\InteropApp.dll

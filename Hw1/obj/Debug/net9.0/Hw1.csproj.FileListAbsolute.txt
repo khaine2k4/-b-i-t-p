@@ -1,0 +1,14 @@
+D:\kì 5\myc#\Hw1\bin\Debug\net9.0\Hw1.exe
+D:\kì 5\myc#\Hw1\bin\Debug\net9.0\Hw1.deps.json
+D:\kì 5\myc#\Hw1\bin\Debug\net9.0\Hw1.runtimeconfig.json
+D:\kì 5\myc#\Hw1\bin\Debug\net9.0\Hw1.dll
+D:\kì 5\myc#\Hw1\bin\Debug\net9.0\Hw1.pdb
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.AssemblyInfoInputs.cache
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.AssemblyInfo.cs
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.csproj.CoreCompileInputs.cache
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.dll
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\refint\Hw1.dll
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.pdb
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.genruntimeconfig.cache
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\ref\Hw1.dll

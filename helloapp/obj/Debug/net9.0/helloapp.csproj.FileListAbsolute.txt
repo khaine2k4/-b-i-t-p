@@ -1,0 +1,14 @@
+D:\kì 5\myc#\helloapp\bin\Debug\net9.0\helloapp.exe
+D:\kì 5\myc#\helloapp\bin\Debug\net9.0\helloapp.deps.json
+D:\kì 5\myc#\helloapp\bin\Debug\net9.0\helloapp.runtimeconfig.json
+D:\kì 5\myc#\helloapp\bin\Debug\net9.0\helloapp.dll
+D:\kì 5\myc#\helloapp\bin\Debug\net9.0\helloapp.pdb
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfoInputs.cache
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfo.cs
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.csproj.CoreCompileInputs.cache
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.dll
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\refint\helloapp.dll
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.pdb
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
+D:\kì 5\myc#\helloapp\obj\Debug\net9.0\ref\helloapp.dll
