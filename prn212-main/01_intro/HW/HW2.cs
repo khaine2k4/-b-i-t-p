@@ -39,45 +39,21 @@ namespace FileAnalyzer
 
                 // 1. Count words
                 
-                string[] words = content.Split(new[] { ' ', '\r', '\n', '\t' }, StringSplitOptions.RemoveEmptyEntries);
-                int wordCount = words.Length;
-                Console.WriteLine($"Number of words: {wordCount}");
+              
 
                 // 2. Count characters (with and without whitespace)
-                int charWithSpace = content.Length;
-                int charWithoutSpace = content.Count(c => !char.IsWhiteSpace(c));
-                Console.WriteLine($"Characters (with spaces): {charWithSpace}");
-                Console.WriteLine($"Characters (without spaces): {charWithoutSpace}");
+              
 
                 // 3. Count sentences
-                int sentenceCount = content.Split(new[] { '.', '!', '?' }, StringSplitOptions.RemoveEmptyEntries).Length;
-                Console.WriteLine($"Number of sentences: {sentenceCount}");
-
+              
                 // 4. Identify most common words
-                var wordFrequency = words
-                    .Select(w => w.Trim().ToLower())
-                    .Where(w => w.All(char.IsLetterOrDigit))
-                    .GroupBy(w => w)
-                    .ToDictionary(g => g.Key, g => g.Count());
-
-                var topWords = wordFrequency
-                    .OrderByDescending(kvp => kvp.Value)
-                    .Take(5);
-
-                Console.WriteLine("Top 5 most common words:");
-                foreach (var pair in topWords)
-                {
-                    Console.WriteLine($"{pair.Key}: {pair.Value} times");
-                }
+               
 
                 // 5. Average word length
-                double averageWordLength = words.Any() ? words.Average(w => w.Length) : 0;
-                Console.WriteLine($"Average word length: {averageWordLength:F2}");
-
+              
 
                 // Example implementation for counting lines:
-                int lineCount = File.ReadAllLines(filePath).Length;
-                Console.WriteLine($"Number of lines: {lineCount}");
+               
                 
                 // TODO: Additional analysis to be implemented
             }

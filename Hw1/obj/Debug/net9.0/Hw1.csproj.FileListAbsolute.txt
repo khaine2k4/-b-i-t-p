@@ -12,3 +12,4 @@ D:\kì 5\myc#\Hw1\obj\Debug\net9.0\refint\Hw1.dll
 D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.pdb
 D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.genruntimeconfig.cache
 D:\kì 5\myc#\Hw1\obj\Debug\net9.0\ref\Hw1.dll
+D:\kì 5\myc#\Hw1\obj\Debug\net9.0\Hw1.sourcelink.json
